@@ -21,7 +21,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Mis Habilidades
 <table><tr><td valign="top" width="33%">
 
 
